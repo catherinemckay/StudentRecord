@@ -1,0 +1,2 @@
+# StudentRecord
+A class, StudentRecord, is created which stores information of a students record, containing 3 quiz scores, 1 midterm, and one final grade. A final numeric grade and final letter grade are computed. The 3 quizzes count for 25% of the total grade; the midterm counts for 35% of the total grade, &amp; the final counts for 40% of the total grade. Two students records are also compared.
